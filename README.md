@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohsen</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohsen-pashootan&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-pashootan" /> </p>
+
 
 [![erfanoabdi github stats](https://github-readme-stats.vercel.app/api?username=mohsen-pashootan&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/mohsen-pashootan)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohsen-pashootan&label=Profile%20views&color=0e75b6&style=flat" alt="mohsen-pashootan" /> </p>
+
 
 ## Journey of life
 
