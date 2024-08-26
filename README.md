@@ -17,8 +17,7 @@
 
 ### About Me
 
-From the beginning of web development, I tried to understand the fundamental concepts of JavaScript and React as deeply as possible and to increase my problem solving ability and to grow with the front team members and help others grow. Working on Edarito project (administrative correspondence system), user panel for online event creation and Alocom web application (online meeting
-and event web app) created the best opportunities for me to use the maximum capacities of JavaScript, React and browser.
+I am a developer with basic science background. This background  helped me to analyze problems with the various skills I acquired, and to find logical solutions to problems with scrutinize and tracing. With my ability to remember the details of the project and the connection of different parts, I was always careful not to interfere with new features. Also, I generally transfer this work method to my teammates.
 
 
 - 💬 Ask me about **React**
