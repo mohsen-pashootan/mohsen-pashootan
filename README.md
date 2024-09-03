@@ -17,8 +17,7 @@
 
 ### About Me
 
-I am a developer with basic science background. This background  helped me to analyze problems with the various skills I acquired, and to find logical solutions to problems with scrutinize and tracing. With my ability to remember the details of the project and the connection of different parts, I was always careful not to interfere with new features. Also, I generally transfer this work method to my teammates.
-
+Front-end Developer with 4+ years of experience and a background in Basic Sciences, enabling effective problem analysis and logical solutions. Strong attention to project details ensures seamless integration of new features without design issues. This is also the approach shared with teammates consistently
 
 - 💬 Ask me about **React**
 
